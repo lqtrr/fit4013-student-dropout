@@ -1,0 +1,10 @@
+true,pred,n,Curricular units 1st sem (approved),Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),approval_rate_2nd,Tuition fees up to date,Scholarship holder,Debtor,Age at enrollment,Admission grade
+Dropout,Dropout,181,1.49,0.81,3.18,0.13,0.54,0.05,0.25,27.67,124.32
+Dropout,Enrolled,78,4.03,3.54,11.46,0.55,0.92,0.08,0.18,23.06,124.87
+Dropout,Graduate,25,5.04,5.16,10.94,0.78,0.88,0.16,0.12,23.96,136.61
+Enrolled,Dropout,25,2.48,1.72,6.35,0.31,0.84,0.2,0.12,23.16,123.53
+Enrolled,Enrolled,116,4.19,3.95,11.92,0.66,0.97,0.15,0.12,22.41,125.79
+Enrolled,Graduate,18,6.17,6.39,11.53,0.93,1.0,0.22,0.22,20.06,128.14
+Graduate,Dropout,14,3.79,3.64,7.79,0.55,0.64,0.43,0.21,19.43,132.66
+Graduate,Enrolled,119,5.65,5.11,12.19,0.8,1.0,0.2,0.03,22.26,126.11
+Graduate,Graduate,309,6.76,6.82,13.24,0.96,0.99,0.42,0.07,21.94,130.19

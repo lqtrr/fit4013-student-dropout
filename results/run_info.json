@@ -1,0 +1,31 @@
+{
+  "random_state": 42,
+  "test_size": 0.2,
+  "cv": "StratifiedKFold(5, shuffle=True, random_state=42)",
+  "scoring": "f1_macro",
+  "n_train": 3539,
+  "n_test": 885,
+  "class_counts_train": {
+    "Graduate": 1767,
+    "Dropout": 1137,
+    "Enrolled": 635
+  },
+  "class_counts_test": {
+    "Graduate": 442,
+    "Dropout": 284,
+    "Enrolled": 159
+  },
+  "best_by_cv": {
+    "model": "dt",
+    "flow": "B1",
+    "params": "{\"class_weight\": \"balanced\", \"criterion\": \"entropy\", \"max_depth\": 5, \"min_samples_leaf\": 5}",
+    "cv_f1_macro": 0.6869667744741546,
+    "test_f1_macro": 0.6627056411563094,
+    "test_acc": 0.6847457627118644
+  },
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3",
+  "runtime_seconds": 116
+}

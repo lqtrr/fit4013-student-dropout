@@ -1,0 +1,11 @@
+# Đã chạy thử với Python 3.13, scikit-learn 1.9.1, pandas 3.0.5, numpy 2.5.3.
+# Các cận dưới dưới đây đủ cho mã trong src/ (OneHotEncoder(min_frequency, sparse_output) cần scikit-learn >= 1.2).
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+joblib>=1.3
+jupyter>=1.0
+# Chỉ cần cho GUI demo (app.py)
+streamlit>=1.30

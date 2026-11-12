@@ -1,0 +1,25 @@
+params_clean,mean_test_score,std_test_score,rank_test_score
+"{""metric"": ""manhattan"", ""n_neighbors"": 5, ""weights"": ""uniform""}",0.6330529714590358,0.014423193215276055,1
+"{""metric"": ""manhattan"", ""n_neighbors"": 7, ""weights"": ""uniform""}",0.6314682655473792,0.004517096877562937,2
+"{""metric"": ""manhattan"", ""n_neighbors"": 11, ""weights"": ""uniform""}",0.6305871029659565,0.008841556187983386,3
+"{""metric"": ""manhattan"", ""n_neighbors"": 7, ""weights"": ""distance""}",0.6276696848739188,0.009511486180109231,4
+"{""metric"": ""manhattan"", ""n_neighbors"": 15, ""weights"": ""uniform""}",0.6268702488586878,0.01598263740403417,5
+"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""distance""}",0.6243987320228905,0.013474340433694072,6
+"{""metric"": ""manhattan"", ""n_neighbors"": 5, ""weights"": ""distance""}",0.6240455699323986,0.019758757168952434,7
+"{""metric"": ""manhattan"", ""n_neighbors"": 11, ""weights"": ""distance""}",0.6235496608698792,0.012335481563938005,8
+"{""metric"": ""manhattan"", ""n_neighbors"": 15, ""weights"": ""distance""}",0.6212724511824468,0.01587404076259224,9
+"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}",0.613449046819343,0.008735723532106568,10
+"{""metric"": ""manhattan"", ""n_neighbors"": 21, ""weights"": ""distance""}",0.6126930896444708,0.014313319509851041,11
+"{""metric"": ""manhattan"", ""n_neighbors"": 21, ""weights"": ""uniform""}",0.6124923681083364,0.015144368228454141,12
+"{""metric"": ""euclidean"", ""n_neighbors"": 5, ""weights"": ""uniform""}",0.6101814888741834,0.02479991234039414,13
+"{""metric"": ""euclidean"", ""n_neighbors"": 5, ""weights"": ""distance""}",0.6067451938552009,0.022985547854942712,14
+"{""metric"": ""euclidean"", ""n_neighbors"": 11, ""weights"": ""uniform""}",0.6042953422964661,0.00996686360793381,15
+"{""metric"": ""euclidean"", ""n_neighbors"": 7, ""weights"": ""uniform""}",0.6023807525930132,0.01372072851124125,16
+"{""metric"": ""euclidean"", ""n_neighbors"": 15, ""weights"": ""distance""}",0.6013132989150499,0.014782181953382052,17
+"{""metric"": ""euclidean"", ""n_neighbors"": 11, ""weights"": ""distance""}",0.6007605325300898,0.01358318459424754,18
+"{""metric"": ""euclidean"", ""n_neighbors"": 15, ""weights"": ""uniform""}",0.6001912730517374,0.015938929411065447,19
+"{""metric"": ""euclidean"", ""n_neighbors"": 3, ""weights"": ""distance""}",0.5999352338863823,0.023798261038352798,20
+"{""metric"": ""euclidean"", ""n_neighbors"": 7, ""weights"": ""distance""}",0.5998430621838556,0.014608288913580552,21
+"{""metric"": ""euclidean"", ""n_neighbors"": 21, ""weights"": ""uniform""}",0.5909642717969102,0.018445764817071983,22
+"{""metric"": ""euclidean"", ""n_neighbors"": 3, ""weights"": ""uniform""}",0.5891056472689757,0.01846064469708392,23
+"{""metric"": ""euclidean"", ""n_neighbors"": 21, ""weights"": ""distance""}",0.587481230531617,0.017578631265574036,24
