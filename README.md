@@ -1,6 +1,15 @@
 # FIT4013 - Đề tài 8: Dự đoán sinh viên có nguy cơ bỏ học
 
-Bài tập lớn học phần Nhập môn Học máy (FIT4013), năm học 2026-2027. Nhóm 3 người. `random_state = 42`.
+Bài tập lớn học phần Nhập môn Học máy (FIT4013), năm học 2026-2027. Nhóm 3 người. 
+## Thành viên nhóm
+
+| STT | Họ và tên | Lớp | Mã sinh viên |
+|:---:|---|---|---|
+| 1 | Lưu Quang Trường | CNTT 18-02 | 1871020606 |
+| 2 | Phan Văn Thành Vinh | CNTT 18-02 | 1871020659 |
+| 3 | Nguyễn Đình Trọng | CNTT 18-02 | 1871020588 |
+
+`random_state = 42`.
 
 Bài toán: phân loại 3 lớp (`Dropout`, `Enrolled`, `Graduate`) trên dữ liệu dạng bảng, so sánh hai cách tiền xử lý
 (Luồng A cơ bản và Luồng B cải tiến) với K-NN, Cây quyết định và Naive Bayes.
