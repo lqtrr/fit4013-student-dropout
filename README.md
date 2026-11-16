@@ -1,4 +1,4 @@
-# FIT4013 - Đề tài 8: Dự đoán sinh viên có nguy cơ bỏ học
+# FIT4013 - Nhóm 8 - Đề tài 8: Dự đoán sinh viên có nguy cơ bỏ học
 
 Bài tập lớn học phần Nhập môn Học máy (FIT4013), năm học 2026-2027. Nhóm 3 người. 
 ## Thành viên nhóm
